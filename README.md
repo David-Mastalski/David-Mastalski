@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I have a degree in IT technology, and I want to pursue a career as a Junior Frontend Developer</h3>
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 ### 📫 EMAIL: 
 ```
 mastalskid79@gmail.com
