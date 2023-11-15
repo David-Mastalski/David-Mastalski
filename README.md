@@ -28,7 +28,7 @@ mastalskid79@gmail.com
   - [Sliding Puzzle](https://github.com/xyashino/MegaK-Head-Hunter-Front)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
   - [Chat App - Messenger Clone](https://github.com/xyashino/MegaK-Head-Hunter-Front)
-- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/other_icon.png">  **Other App**_
+- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/otherFile_icon.png">  **Other App**_
   - [Link Sharink App](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [Notes](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [Multi Step Form](https://github.com/xyashino/MegaK-Head-Hunter-Front)
