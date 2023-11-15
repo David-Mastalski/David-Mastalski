@@ -37,8 +37,6 @@ mastalskid79@gmail.com
  
 -----------------------------------------------------------------------------------------------------------------------------
 
-<img alt="Coding" width="400px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/READMMEImage.png">
-
 <img alt="Coding" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 <h3 align="left">Connect with me:</h3>
