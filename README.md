@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-mastalski&label=Profile%20views&color=0e75b6&style=flat" alt="david-mastalski" /> </p>
 
 - 🌱 I’m currently learning **Next.js 14, Vite, Tailwind CSS,**
+- 🌱 I’m currently learning: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 - 📫 How to reach me **mastalskid79@gmail.com**
 
