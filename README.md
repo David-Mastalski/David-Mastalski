@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I have a degree in IT technology, and I want to pursue a career as a Junior Frontend Developer</h3>
 
-### EMAIL: 
+### 📫 EMAIL: 
 ```
 mastalskid79@gmail.com
 ``` 
@@ -15,8 +15,8 @@ mastalskid79@gmail.com
 ![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-
-- 📫 How to reach me **mastalskid79@gmail.com**
+- 📚 In the future I want to learn:
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 - ⚡ Fun fact **I was born on April Fool's Day. My grandma thought it was a joke...**
 
