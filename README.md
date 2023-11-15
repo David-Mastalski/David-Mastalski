@@ -5,8 +5,6 @@
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-_____________________________________________________________________________________________________________________________
-
 ### 📫 EMAIL: 
 ```
 mastalskid79@gmail.com
@@ -25,10 +23,17 @@ mastalskid79@gmail.com
 
 ### MY PROJECTS
 - _**Games**_
-  - ady jakaś gra
+  - [Memory Game](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+  - [Rock Paper Scissors Game](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+  - [Sliding Puzzle](https://github.com/xyashino/MegaK-Head-Hunter-Front)
 - _**Aplication Clones**_
-  - 
+  - [Chat App - Messenger Clone](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+- _**Other App**_
+  - [Link Sharink App](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+  - [Notes](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+  - [Multi Step Form](https://github.com/xyashino/MegaK-Head-Hunter-Front)
 - _**Web Pages**_
+  - [PlanetCar Website](https://github.com/xyashino/MegaK-Head-Hunter-Front)
 
 <img alt="Coding" width="400px" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
