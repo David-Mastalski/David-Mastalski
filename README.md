@@ -19,7 +19,7 @@ mastalskid79@gmail.com
 - 👨‍💻 All of my projects are available at [https://github.com/David-Mastalski?tab=repositories](https://github.com/David-Mastalski?tab=repositories)
 - ⚡ Fun fact **I was born on April Fool's Day. My grandma thought it was a joke...**
 
-<img align="right" alt="Geometric" width="400" src="https://i.pinimg.com/originals/dc/37/94/dc3794511852f2f5137dfdc10b04e6b6.gif">
+<img alt="Cat" width="400" src="https://media.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
