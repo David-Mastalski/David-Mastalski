@@ -1,3 +1,5 @@
+![MasterHead](https://www.bmw.pl/content/dam/bmw/common/all-models/m-series/m3-sedan/2023/highlights/bmw-3-series-cs-m-automobiles-sp-desktop.jpg)
+
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I have a degree in IT technology, and I want to pursue a career as a Junior Frontend Developer</h3>
 
