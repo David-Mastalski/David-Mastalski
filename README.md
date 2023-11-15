@@ -22,7 +22,7 @@ mastalskid79@gmail.com
 - ⚡ Fun fact **I was born on April Fool's Day. My grandma thought it was a joke...**
 
 ### MY PROJECTS
-- _🎮**Games**_
+- _🎮 **Games**_
   - [Memory Game](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [Rock Paper Scissors Game](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [Sliding Puzzle](https://github.com/xyashino/MegaK-Head-Hunter-Front)
