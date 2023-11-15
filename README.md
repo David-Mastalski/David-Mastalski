@@ -6,7 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david-mastalski&label=Profile%20views&color=0e75b6&style=flat" alt="david-mastalski" /> </p>
 
 - 🌱 I’m currently learning **Next.js 14, Vite, Tailwind CSS,**
-- 🌱 I’m currently learning: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🌱 I’m currently learning:
+![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 - 📫 How to reach me **mastalskid79@gmail.com**
 
