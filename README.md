@@ -23,7 +23,7 @@ mastalskid79@gmail.com
 
 ### MY PROJECTS
 - _🎮 **Games**_
-  - [Memory Game](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+  - [Memory Game](https://github.com/David-Mastalski/Memory-Games)
   - [Rock Paper Scissors Game](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [Sliding Puzzle](https://github.com/xyashino/MegaK-Head-Hunter-Front)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
