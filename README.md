@@ -18,8 +18,8 @@ mastalskid79@gmail.com
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 - 📚 In the future I want to learn:
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- 👨‍💻 All of my projects are available at [https://github.com/David-Mastalski?tab=repositories](https://github.com/David-Mastalski?tab=repositories)
-- ⚡ Fun fact **I was born on April Fool's Day. My grandma thought it was a joke...**
+- 👨‍💻 All of my projects are available at: [https://github.com/David-Mastalski?tab=repositories](https://github.com/David-Mastalski?tab=repositories)
+- ⚡ Fun fact: **I was born on April Fool's Day. My grandma thought it was a joke...**
 
 ### MY PROJECTS
 - _🎮 **Games**_
