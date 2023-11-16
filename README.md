@@ -27,7 +27,7 @@ mastalskid79@gmail.com
   - [Rock Paper Scissors Game](https://github.com/David-Mastalski/Rock-Paper-Scissors-Game)
   - [Sliding Puzzle](https://github.com/David-Mastalski/Sliding-Puzzle-Game)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
-  - [Chat App - Messenger Clone](https://github.com/xyashino/MegaK-Head-Hunter-Front)
+  - [Chat App - Messenger Clone](https://github.com/David-Mastalski/Chat-App)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/otherFile_icon.png">  **Other App**_
   - [Link Sharink App](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [Notes](https://github.com/xyashino/MegaK-Head-Hunter-Front)
