@@ -29,7 +29,7 @@ mastalskid79@gmail.com
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
   - [Chat App - Messenger Clone](https://github.com/David-Mastalski/Chat-App)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/otherFile_icon.png">  **Other App**_
-  - [devLinks](https://github.com/David-Mastalski/devLinks)
+  - [DevLinks](https://github.com/David-Mastalski/DevLinks)
   - [Notes](https://github.com/xyashino/MegaK-Head-Hunter-Front)
   - [Multi Step Form](https://github.com/xyashino/MegaK-Head-Hunter-Front)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
