@@ -32,6 +32,7 @@ mastalskid79@gmail.com
   - [DevLinks](https://github.com/David-Mastalski/DevLinks)
   - [My Notes](https://github.com/David-Mastalski/My-Notes)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
+  - [Drag&Drop ToDo App](https://github.com/David-Mastalski/To-Do-List)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
   - [PlanetCar Website]()
  
