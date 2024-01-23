@@ -35,7 +35,7 @@ mastalskid79@gmail.com
   - [Drag&Drop ToDo App](https://github.com/David-Mastalski/To-Do-List)
   - Coming soon... AI chatting app 
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
-  - [PlanetCar Website]()
+  - [PlanetCar]()
  
 -----------------------------------------------------------------------------------------------------------------------------
 
