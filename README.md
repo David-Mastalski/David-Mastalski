@@ -21,8 +21,8 @@ mastalskid79@gmail.com
 
 ### MY PROJECTS
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
-  - [Drag&Drop ToDo App](https://github.com/David-Mastalski/To-Do-List)
   - [Shop.co - E-commerce App]()
+  - [Drag&Drop ToDo App](https://github.com/David-Mastalski/To-Do-List)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
   - [Chat App](https://github.com/David-Mastalski/Chat-App)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
