@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/e2ab69d5a806b80711a92cd080b85bd4a71f014be76314170853caa52ebbb368/68747470733a2f2f7468656163656d616b6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30352f636f7573746f6d2d7765622e676966)
+![MasterHead](https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/coding-freak.gif)
 
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I have a degree in IT technology, and I want to pursue a career as a Junior Frontend Developer</h3>
