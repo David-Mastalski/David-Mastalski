@@ -20,20 +20,20 @@ mastalskid79@gmail.com
 - ⚡ Fun fact: **I was born on April Fool's Day. My grandma thought it was a joke...**
 
 ### MY PROJECTS
+- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
+  - [Drag&Drop ToDo App](https://github.com/David-Mastalski/To-Do-List)
+  - [Shop.co - E-commerce App]()
+- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
+  - [Chat App](https://github.com/David-Mastalski/Chat-App)
+- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
+  - [PlanetCar](https://github.com/David-Mastalski/PlanetCar)
 - _🎮 **Games**_
   - [Memory Game](https://github.com/David-Mastalski/Memory-Games)
   - [Rock Paper Scissors Game](https://github.com/David-Mastalski/Rock-Paper-Scissors-Game)
   - [Sliding Puzzle](https://github.com/David-Mastalski/Sliding-Puzzle-Game)
-- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
-  - [Chat App](https://github.com/David-Mastalski/Chat-App)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/otherFile_icon.png">  **Other App**_
   - [DevLinks](https://github.com/David-Mastalski/DevLinks)
   - [My Notes](https://github.com/David-Mastalski/My-Notes)
-- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
-  - [Drag&Drop ToDo App](https://github.com/David-Mastalski/To-Do-List)
-  - Coming soon... AI chatting app 
-- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
-  - [PlanetCar](https://github.com/David-Mastalski/PlanetCar)
  
 -----------------------------------------------------------------------------------------------------------------------------
 
