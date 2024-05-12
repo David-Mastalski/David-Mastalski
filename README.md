@@ -21,6 +21,7 @@ mastalskid79@gmail.com
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **FullStack Project**_
   - [TweetTalk - Real Time Chat App](https://github.com/David-Mastalski/TweetTalk)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
+  - [Responsive Tip Calculator](https://github.com/David-Mastalski/Responsive-Tip-Calculator/tree/main) 
   - [Shop.co - E-commerce App](https://github.com/David-Mastalski/Shop.co)
   - [Drag&Drop ToDo App](https://github.com/David-Mastalski/To-Do-List)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones*
