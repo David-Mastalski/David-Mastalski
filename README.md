@@ -18,6 +18,8 @@ mastalskid79@gmail.com
 - ⚡ Fun fact: **I was born on April Fool's Day. My grandma thought it was a joke...**
 
 ### MY PROJECTS
+- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **Commercial Project**_
+  - [Czad Imprezka - Cyfrowa Księga Gości]
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **FullStack Project**_
   - [TweetTalk - Real Time Chat App](https://github.com/David-Mastalski/TweetTalk)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
