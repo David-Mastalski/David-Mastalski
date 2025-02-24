@@ -34,7 +34,6 @@ mastalskid79@gmail.com
   - [Sliding Puzzle](https://github.com/David-Mastalski/Sliding-Puzzle-Game)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/otherFile_icon.png">  **Other App**_
   - [DevLinks](https://github.com/David-Mastalski/DevLinks)
-  - [My Notes](https://github.com/David-Mastalski/My-Notes)
  
 -----------------------------------------------------------------------------------------------------------------------------
 
