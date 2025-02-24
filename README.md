@@ -28,6 +28,7 @@ mastalskid79@gmail.com
   - [Chat App](https://github.com/David-Mastalski/Chat-App)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
   - [PlanetCar](http://www.planet-car.pl/)
+  - [P.H.U Dyrek](https://dyrek.com.pl/)
 - _🎮 **Games**_
   - [Memory Game](https://github.com/David-Mastalski/Memory-Games)
   - [Rock Paper Scissors Game](https://github.com/David-Mastalski/Rock-Paper-Scissors-Game)
