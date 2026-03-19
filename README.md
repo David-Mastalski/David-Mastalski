@@ -17,7 +17,7 @@ mastalskid79@gmail.com
 
 ### MY PROJECTS
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **Commercial Project**_
-  - Sklep internetowy Jubiler Sezam 
+  - [Jubiler Sezam](https://www.jubilersezam.pl/)
   - Czad Imprezka - Cyfrowa Księga Gości - application in progress...
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **FullStack Project**_
   - [TweetTalk - Real Time Chat App](https://github.com/David-Mastalski/TweetTalk)
