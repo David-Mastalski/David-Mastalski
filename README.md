@@ -20,7 +20,7 @@ mastalskid79@gmail.com
   - [Jubiler Sezam](https://www.jubilersezam.pl/)
   - Czad Imprezka - Cyfrowa Księga Gości - application in progress...
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
-  - [Squooshly - image convert app](https://github.com/David-Mastalski/Squooshly/tree/main)
+  - [Squooshly - Image convert app](https://github.com/David-Mastalski/Squooshly/tree/main)
   - [Shop.co - E-commerce App](https://github.com/David-Mastalski/Shop.co)
   - [Responsive Tip Calculator](https://github.com/David-Mastalski/Responsive-Tip-Calculator/tree/main) 
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
