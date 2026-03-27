@@ -19,8 +19,6 @@ mastalskid79@gmail.com
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **Commercial Project**_
   - [Jubiler Sezam](https://www.jubilersezam.pl/)
   - Czad Imprezka - Cyfrowa Księga Gości - application in progress...
-- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **FullStack Project**_
-  - [TweetTalk - Real Time Chat App](https://github.com/David-Mastalski/TweetTalk)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
   - [Shop.co - E-commerce App](https://github.com/David-Mastalski/Shop.co)
   - [Responsive Tip Calculator](https://github.com/David-Mastalski/Responsive-Tip-Calculator/tree/main) 
