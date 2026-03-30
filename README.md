@@ -32,8 +32,6 @@ mastalskid79@gmail.com
   - [Memory Game](https://github.com/David-Mastalski/Memory-Games)
   - [Rock Paper Scissors Game](https://github.com/David-Mastalski/Rock-Paper-Scissors-Game)
   - [Sliding Puzzle](https://github.com/David-Mastalski/Sliding-Puzzle-Game)
-- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/otherFile_icon.png">  **Other App**_
-  - [DevLinks](https://github.com/David-Mastalski/DevLinks)
  
 -----------------------------------------------------------------------------------------------------------------------------
 
