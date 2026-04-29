@@ -16,7 +16,6 @@ mastalskid79@gmail.com
 ### MY PROJECTS
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/code_icon.png">  **Commercial Project**_
   - [Jubiler Sezam](https://www.jubilersezam.pl/)
-  - Czad Imprezka - Cyfrowa Księga Gości - application in progress...
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
   - [Squooshly - Image convert app](https://github.com/David-Mastalski/Squooshly/tree/main)
   - [Shop.co - E-commerce App](https://github.com/David-Mastalski/Shop.co)
