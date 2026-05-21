@@ -18,6 +18,7 @@ mastalskid79@gmail.com
   - [Jubiler Sezam](https://www.jubilersezam.pl/)
   - [Jubiler Sezam Club](https://github.com/David-Mastalski/Jubiler-Sezam-Club)
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/React_icon.png">  **React.js**_
+  - [AI Research Copilot](https://github.com/David-Mastalski/AI-Research-Copilot/tree/main)
   - [Iotix - IOTA Validators](https://github.com/David-Mastalski/iota-validators-globe)
   - [Squooshly - Image convert app](https://github.com/David-Mastalski/Squooshly/tree/main)
   - [Shop.co - E-commerce App](https://github.com/David-Mastalski/Shop.co)
