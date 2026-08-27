@@ -26,8 +26,6 @@ mastalskid79@gmail.com
   - [Responsive Tip Calculator](https://github.com/David-Mastalski/Responsive-Tip-Calculator/tree/main) 
 - _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/copy.png">  **Aplication Clones**_
   - [Chat App](https://github.com/David-Mastalski/Chat-App)
-- _<img width="15px" src="https://raw.githubusercontent.com/David-Mastalski/David-Mastalski/main/webpage_icon.png">  **Web Pages**_
-  - [PlanetCar](http://www.planet-car.pl/)
 - _🎮 **Games**_
   - [Memory Game](https://github.com/David-Mastalski/Memory-Games)
   - [Rock Paper Scissors Game](https://github.com/David-Mastalski/Rock-Paper-Scissors-Game)
